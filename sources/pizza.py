@@ -42,4 +42,8 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
+    'my pizza': {  
+        'ingredients': {'mozzarella': 3, 'chicken':2},
+        'price': 10,
+        'sauce': 'white'}
 }
